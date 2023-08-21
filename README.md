@@ -18,5 +18,10 @@ LINE Integration for FreeScout
 
 4,Limitation.<br>
  I. one mailbox has only one LINE messaging bot.<br>
- II. may be a lot of bug or something.
+ II. first message is never appeared.(normally first message is add friend notice.except you delete talk thread.)
+ III. may be a lot of bug or something.
  
+5.Installation<br>
+ clone in freescout/Modules and change user and owner.(or translation never reflected).
+ after that activate from freescout module menu.
+ setting menu is in mailbox setting.
