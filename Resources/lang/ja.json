@@ -1,0 +1,10 @@
+{
+    "Audio from LINE": "LINEからの音声",
+    "Instruction": "説明",
+    "LINE User": "LINEユーザー",
+    "Movie from LINE": "LINEからの動画",
+    "Start Talking to LINE User :name": "LINEユーザー :name さんとのトークを開始しました",
+    "Talk to LINE User :name": "LINEユーザー :name さんとのトーク",
+    "You could set Auto reply at LINE developer console.": "自動応答はLINE Developer Consoleで設定することができます",
+    "You have to set this at LINE Developer Console (https only)": "このURLをLINE Developer Consoleで設定する必要があります（httpsのみ可）"
+}

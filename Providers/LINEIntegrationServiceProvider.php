@@ -64,7 +64,7 @@ require_once __DIR__.'/../vendor/autoload.php';
 class LINEIntegrationServiceProvider extends ServiceProvider
 {
     const DRIVER = 'line';
-    const CHANNEL = 22884;
+    const CHANNEL = 102;
     const CHANNEL_NAME = 'LINE';
 
     const LOG_NAME = 'line_errors';
