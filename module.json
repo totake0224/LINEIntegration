@@ -1,0 +1,24 @@
+{
+    "name": "LINEIntegration",
+    "alias": "lineintegration",
+    "description": "Convert messages sent to your LINE Bot into FreeScout conversations!",
+    "version": "1.0.0",
+    "detailsUrl": "",
+    "author": "",
+    "authorUrl": "",
+    "requiredAppVersion": "1.8.81",
+    "license": "AGPL-3.0",
+    "keywords": [],
+    "active": 0,
+    "order": 0,
+    "providers": [
+        "Modules\\LINEIntegration\\Providers\\LINEIntegrationServiceProvider"
+    ],
+    "aliases": {
+        "LINEIntegration": "Modules\\LINEIntegration\\Providers\\LINEIntegrationServiceProvider"
+    },
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}
