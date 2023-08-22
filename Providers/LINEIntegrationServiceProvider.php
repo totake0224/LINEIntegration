@@ -412,7 +412,7 @@ class LINEIntegrationServiceProvider extends ServiceProvider
 
         $attachments = [];
 
-        $text = 'LINEから位置情報送信<br>';
+        $text = __('Location from LINE') . '<br>';
         $text .= $message->getTitle() . '<br>';
         $text .= $message->getAddress() . '<br>';
         $text .= 'https://maps.google.com/maps?q=' . $message->getLatitude() . ',' . $message->getLongitude() ;
