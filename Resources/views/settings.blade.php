@@ -31,7 +31,7 @@
                                 <label class="onoffswitch-label" for="settings_enabled"></label>
                             </div>
                             <div class="form-help">
-                                <a href="https://freescout.net/module/line-integration/" target="_blank">{{ __('Instruction') }} <small class="glyphicon glyphicon-share"></small></a>
+                                <a href="https://github.com/totake0224/LINEIntegration" target="_blank">{{ __('Instruction') }} <small class="glyphicon glyphicon-share"></small></a>
                             </div>
                         </div>
                     </div>
